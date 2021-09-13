@@ -6,7 +6,7 @@ This prototype hopes you send any .npy file because is not performanced to speci
 
 I will share more images in npy format and documentation about prototype and IBM Watson ML Deploy models ASAP but, meanwhile you can try with your own Thermal Images and Machine Learning models.
 
-The web app was deployed in Heroku. This app has limited resources because is FREE. Hence, I recommend you run it on your local server or any Cloud Computing Service like IBM Cloud, Azure, AWS or GCP if you want a better performance.
+This web app was deployed in Heroku using a free cloud services and has limited resources. Hence, I recommend you run it on your local server or any Cloud Computing Service like IBM Cloud, Azure, AWS or GCP if you want a better performance.
 
 Lastly but not least this Web App only support 6 petitions per month because IBM Watson policies.
 
@@ -16,6 +16,6 @@ You can prove with this npy files (MEGA), Try yourself!: https://mega.nz/folder/
 
 **DISCLOUSERE**
 
-This Artificial Intelligence its ony for researhcer .
+This Artificial Intelligence its only for development researh technology in data science and it's not a clinical tool.
 
 This prototype has **GNU General Public License v3.0**
