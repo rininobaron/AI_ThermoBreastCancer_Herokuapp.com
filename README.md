@@ -8,7 +8,7 @@ You can prove with this file:
 
 I will share more images in npy format and documentation about prototype and IBM Watson ML Deploy models ASAP but, menawhile you can try with your own Thermal Images.
 
-The WebApp deployed in HEroku in the following url has limited resources and need redis engine database motor managment constantly. I recommend you run in your local server.
+The WebApp deployed in HEroku in the following url has limited resources and need Heroku Redis dev engine database motor management constantly and this can generate some problems with this prototype. Hence, I recommend you run in your local server.
 
 Laslty but not least this Web App only support 6 petitions per month because Launching Betha Strategy SAAS objetives.
 
