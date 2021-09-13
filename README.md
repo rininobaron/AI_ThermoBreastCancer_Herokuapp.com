@@ -2,7 +2,7 @@
 
 In This repository you can found a code written in python, HTML, CSS, JavaScript and Linux Shell Scripting Language to deploy an Web App.
 
-This prototype receive a .npy file that its a convenient use of a raw file, but its only for development research, can you modified file in an easy form. This prorotype has a **GNU General Public License v3.0**
+This prototype receive a .npy file that its a convenient use of a raw file, but its only for development research, can you modified file in an easy form.
 
 You can prove with this file:
 
@@ -15,3 +15,5 @@ Laslty but not least this Web App only support 6 petitions per month because Lau
 URL APP: https://aithermobreastcancer2.herokuapp.com/
 
 Thermogran URL in .npy format file, Try yourself!: 
+
+This prorotype has a **GNU General Public License v3.0**
