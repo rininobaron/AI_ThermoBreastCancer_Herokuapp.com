@@ -18,4 +18,6 @@ You can prove with this npy files (MEGA), Try yourself!: https://mega.nz/folder/
 
 This Artificial Intelligence its only for development researh technology in data science and it's not a clinical tool.
 
+aithermobreastcancer2.herokuapp.com don't storage any data.
+
 This prototype has **GNU General Public License v3.0**
