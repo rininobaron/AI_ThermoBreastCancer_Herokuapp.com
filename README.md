@@ -14,6 +14,6 @@ Laslty but not least this Web App only support 6 petitions per month because Lau
 
 URL APP: https://aithermobreastcancer2.herokuapp.com/
 
-Thermogran URL in .npy format file, Try yourself!: 
+Thermograns URL in MEGA with .npy format, Try yourself!: https://mega.nz/folder/UZoGBKpT#4Y6MRc-LE0EhvznrY4o1TQ 
 
 This prototype has **GNU General Public License v3.0**
