@@ -8,7 +8,7 @@ I will share more images in npy format and documentation about prototype and IBM
 
 This web app was deployed in Heroku using a free cloud services and has limited resources. Hence, I recommend you run it on your local server or any Cloud Computing Service like IBM Cloud, Azure, AWS or GCP if you want a better performance.
 
-Lastly but not least this Web App only support 6 petitions per month because IBM Watson policies.
+Lastly but not least this Web App only support 6 queries per month because IBM Watson policies machine larning models.
 
 URL APP: https://aithermobreastcancer2.herokuapp.com/
 
