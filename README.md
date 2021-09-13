@@ -16,4 +16,4 @@ URL APP: https://aithermobreastcancer2.herokuapp.com/
 
 Thermogran URL in .npy format file, Try yourself!: 
 
-This prorotype has a **GNU General Public License v3.0**
+This prototype has **GNU General Public License v3.0**
