@@ -14,9 +14,10 @@ URL APP: https://aithermobreastcancer2.herokuapp.com/
 
 You can prove with this npy files (MEGA), Try yourself!: https://mega.nz/folder/UZoGBKpT#4Y6MRc-LE0EhvznrY4o1TQ 
 
+
 **DISCLOUSERE**
 
-This Artificial Intelligence app is only for researching and developing new open tools with Artificial Intelligence in order to improve People Well Being and it's not a clinical tool yet.
+This Artificial Intelligence app is only for researching and developing new open tools with Artificial Intelligence in order to improve people's well-being and it's not a clinical tool yet.
 
 aithermobreastcancer2.herokuapp.com doesn't storage any data.
 
