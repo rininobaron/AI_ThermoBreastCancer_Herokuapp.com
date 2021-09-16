@@ -92,7 +92,7 @@ def caract(derecha, izquierda):
 
 # Estableciendo datos de la aplicación WEB en IBM WATSON CLOUD
 # y generando un token temporal para cceder a la aplicación
-API_KEY = 'ls__eaOzW-Gj9TbL2rDUTZyWMaMInv1mzZeoawNgBPzh'
+API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 token_response = requests.post('https://iam.ng.bluemix.net/identity/token', data={"apikey": API_KEY, "grant_type": 'urn:ibm:params:oauth:grant-type:apikey'})
 mltoken = token_response.json()["access_token"]
 
@@ -105,7 +105,7 @@ def get_score_model1(score_0):
 	scoring_payload = {"input_data": [{"values": [score_0[0]]}]}
 
 	#Realizando petición al reconocedor en la Nube
-	response_scoring = requests.post('https://us-south.ml.cloud.ibm.com/ml/v4/deployments/5a3cf4f8-632c-45d3-9854-27b225269968/predictions?version=2020-12-05', json=scoring_payload, headers={'Authorization': 'Bearer ' + mltoken})
+	response_scoring = requests.post('https://us-south.ml.cloud.ibm.com/ml/v4/deployments/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/predictions?version=2020-12-05', json=scoring_payload, headers={'Authorization': 'Bearer ' + mltoken})
 
 	return response_scoring.json()['predictions'][0]['values'][0][0][0]
 
@@ -116,7 +116,7 @@ def get_score_model2(score_1):
 	scoring_payload = {"input_data": [{"values": [score_1]}]}
 
 	#Realizando petición al reconocedor en la Nube
-	response_scoring = requests.post('https://us-south.ml.cloud.ibm.com/ml/v4/deployments/fbe1c19a-65a3-4405-91d8-5088ef368cd3/predictions?version=2020-12-05', json=scoring_payload, headers={'Authorization': 'Bearer ' + mltoken})
+	response_scoring = requests.post('https://us-south.ml.cloud.ibm.com/ml/v4/deployments/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/predictions?version=2020-12-05', json=scoring_payload, headers={'Authorization': 'Bearer ' + mltoken})
 
 	return response_scoring.json()['predictions'][0]['values'][0][0][0]
 
