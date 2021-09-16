@@ -109,7 +109,7 @@ def get_score_model1(score_0):
 
 	return response_scoring.json()['predictions'][0]['values'][0][0][0]
 
-# Función para hacer solicitud (Query) a Red Neuronal con base en Caracterización Bilateral
+# Función para hacer solicitud (Query) a Red Neuronal Convolucional EfficientNet (MODIFICADA)
 def get_score_model2(score_1):
 	
 	# Definimos el diccionario para la petición
