@@ -32,8 +32,8 @@ URL APP: https://aithermobreastcancer2.herokuapp.com/
 You can prove with this npy files (MEGA), Try yourself!: https://mega.nz/folder/UZoGBKpT#4Y6MRc-LE0EhvznrY4o1TQ 
 
 **DOCUMENTS OF EXPERIMENTS**
-AI_ThermoBreastCancer_FROM_SCRATCH:
-https://github.com/rininobaron/AI_ThermoBreastCancer_FROM_SCRATCH
+Trabajo Terminal UPIITA IPN:
+https://github.com/rininobaron/Trabajo_Terminal_UPIITA_IPN
 
 **DISCLOUSERE**
 
